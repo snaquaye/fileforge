@@ -6,7 +6,8 @@
     "dev": "next dev --turbopack",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "ngrok": "ngrok http pony-supreme-newly.ngrok-free.app"
   },
   "dependencies": {
     "react": "^19.0.0",
